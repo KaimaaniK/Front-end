@@ -1,5 +1,5 @@
 # Front-end
-This is my public repository for the LUT course Software Development Skills: Front-End.\  
+This is my public repository for the LUT course Software Development Skills: Front-End.  
   
 NOTES:\
 In the Excercises folder, you can find the individual files for each module.  
